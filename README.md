@@ -8,7 +8,7 @@ Flexbox powering the layout.
  🌟HTML5
  🌟CSS3
 
- DEMO:🚀
+ DEMO:🚀https://harinivaas.github.io/TripAdvisor-Clone/
 
  
 
